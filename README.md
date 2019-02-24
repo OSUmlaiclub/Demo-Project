@@ -80,7 +80,7 @@ conda install -c conda-forge keras
 #### Set up Kaggle to Download Datasets and Upload Submission
 
 * Create an account on [Kaggle](https://www.kaggle.com/)
-* Access this webpage [https://www.kaggle.com/<username>/account](https://www.kaggle.com/<username>/account), replace <username> with your Kaggle Username
+* Access this webpage [https://www.kaggle.com/username/account](https://www.kaggle.com/username/account), replace username with your Kaggle Username
 * Click on **Create New API Token**, which will download a *kaggle.json* file.
 * Move the downloaded file, *kaggle.json*, from Downloads to:
     * Windows: ```C:\Users\<Windows-username>\.kaggle\kaggle.json```
